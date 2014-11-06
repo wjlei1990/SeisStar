@@ -1,4 +1,4 @@
-SeisStar
-========
+Seis* (SeisStar)
+=================
 
-Available at [http://seisstar.github.io/SeisStar]
+This repository host source files for [Seis* website](http://seisstar.github.io/SeisStar).
