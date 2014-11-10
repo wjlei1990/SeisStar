@@ -1,0 +1,24 @@
+<nav>
+ <ul class="pager">
+   <li>
+         {{page.prev_section}}
+    {% if page.prev_section != null %}
+
+       <a href="/docs/{{ page.prev_section }}/" class="prev">
+        Back
+      </a>
+    {% else %}
+      <span class="prev disabled">NoBack</span>
+    {% endif %}
+   </li> 
+   <li>
+    {% if page.next_section != null %}
+       <a href="/docs/{{ page.next_section }}/" class="next">
+        Next
+      </a>
+    {% else %}
+      <span class="next disabled">NoNext</span>
+    {% endif %}
+   </li> 
+ </ul>
+</nav>

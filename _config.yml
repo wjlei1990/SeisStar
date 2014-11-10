@@ -1,0 +1,14 @@
+# Site settings
+name: "Seis*"
+title: A seismic adjoint tomography ecosystem 
+description: >
+  A seismic adjoint tomography ecosystem 
+  baseurl: "" 
+url: "http://seisstar.github.io/SeisStar/"
+
+# Build settings
+markdown: kramdown
+
+collections:
+  docs:
+    output: true

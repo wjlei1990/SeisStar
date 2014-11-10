@@ -1,0 +1,15 @@
+- title: Components 
+  docs:
+  - solvers 
+  - optimization
+
+- title: Workflows 
+  docs:
+  - seisflows
+  - doc-3
+  - doc-4
+
+- title: Tutorials
+  docs:
+  - doc-3
+  - doc-4

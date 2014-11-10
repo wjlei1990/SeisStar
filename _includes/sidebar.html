@@ -1,0 +1,7 @@
+<!--<div id="data" class="container">-->
+<div id="data" class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix-top">
+  {% for section in site.data.docs %}
+    <h4>{{ section.title }}</h4>
+    {% include docs_ul.html items=section.docs %}
+  {% endfor %}
+</div>
