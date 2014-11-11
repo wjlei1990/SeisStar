@@ -10,6 +10,9 @@ url: "http://seisstar.github.io/SeisStar/"
 markdown: kramdown
 baseurl: /SeisStar
 
+kramdown:
+  input: GFM
+
 collections:
   docs:
     output: true

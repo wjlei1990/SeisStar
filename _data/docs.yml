@@ -13,3 +13,7 @@
   docs:
   - doc-3
   - doc-4
+
+- title: Meta
+  docs:
+  - contributing
