@@ -12,10 +12,4 @@ Then the seismograms are cut using the same window, the instrument response is r
 
 The figure below illustrates the preprocessing workflow for adjoint tomography.
 
-### img test1
-![Image of Preprocessing Workflow](https://github.com/SeisStar/SeisStar/blob/gh-pages/img/ASDF.png)
-
-### img test2
-![Image of Preprocessing Workflow](../img/ASDF.png)
-### img test3
 ![Image of Preprocessing Workflow](/SeisStar/img/ASDF.png)
