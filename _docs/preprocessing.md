@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Preprocessing
-permalink: /docs/solvers/
+permalink: /docs/preprocessing/
 ---
 
 # Preprocessing packages
