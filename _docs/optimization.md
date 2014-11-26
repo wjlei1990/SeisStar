@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Optimization 
-permalink: /docs/solvers/
+permalink: /docs/optimization/
 ---
 
 # Optimization packages
