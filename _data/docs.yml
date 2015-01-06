@@ -1,14 +1,16 @@
+- title: Workflows 
+  docs:
+  - preprocessing
+  - cmt_inversion
+  - inversion
+
 - title: Components 
   docs:
   - solvers 
-  - preprocessing
-  - optimization
-
-- title: Workflows 
-  docs:
   - seisflows
-  - doc-3
-  - doc-4
+  - optimization
+  - windows_selection
+  - adjoint_sources
 
 - title: Tutorials
   docs:
