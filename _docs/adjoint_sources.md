@@ -7,3 +7,5 @@ permalink: /docs/adjoint_sources/
 # Ajoint sources creation tools 
 
 MeasureAdj.
+
+Just make a test.
